@@ -1,0 +1,5 @@
+it:
+  home:
+    greeting: "Hello %{name}"
+    title: "Home page"
+    welcome: "Welcome"
