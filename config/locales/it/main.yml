@@ -1,5 +1,6 @@
 it:
   home:
     greeting: "Ciao %{name}"
+    greeting_html: "Ciao <strong>%{name}</strong>"
     title: "Pagina iniziale"
     welcome: "Benvenuto"
