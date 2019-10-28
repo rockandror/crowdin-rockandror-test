@@ -1,0 +1,5 @@
+it:
+  home:
+    greeting: "Ciao %{name}"
+    title: "Pagina iniziale"
+    welcome: "Benvenuto"
