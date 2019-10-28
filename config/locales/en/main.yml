@@ -1,5 +1,6 @@
 en:
   home:
     greeting: "Hello %{name}"
+    greeting_html: "Hello <strong>%{name}</strong>"
     title: "Home page"
     welcome: "Welcome"
