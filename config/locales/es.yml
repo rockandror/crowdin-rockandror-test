@@ -1,0 +1,5 @@
+es:
+  home:
+    greeting: "Hola %{name}"
+    title: "Página de inicio"
+    welcome: "Bienvenido"
