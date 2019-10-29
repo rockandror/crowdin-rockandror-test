@@ -1,5 +1,4 @@
 es:
   home:
-    welcome_html: "Hola <strong>%{name}</strong>"
     title: "Página de inicio"
     welcome: "Bienvenido"
