@@ -1,0 +1,5 @@
+ar:
+  home:
+    welcome_html: "مرحبًا <strong>%{name}</strong>"
+    title: "الصفحة الرئيسية"
+    welcome: "أهلا بك"
