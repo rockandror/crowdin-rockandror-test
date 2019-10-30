@@ -12,8 +12,9 @@ module CrowdinRockadnrorTest
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
     config.i18n.default_locale = :en
-    config.i18n.available_locales = [:en, :es, :it]
+    config.i18n.available_locales = [:ar, :en, :es, :it]
     config.i18n.fallbacks = {
+      "ar"    => "en",
       "es"    => "en",
       "it"    => "es",
     }
