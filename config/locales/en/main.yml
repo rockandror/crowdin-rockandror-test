@@ -3,3 +3,4 @@ en:
     welcome_html: "Hello <strong>%{name}</strong>"
     title: "Home page"
     welcome: "Welcome"
+    car: car
